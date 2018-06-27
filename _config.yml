@@ -1,0 +1,219 @@
+baseurl: ""
+url: "minbio.github.io"
+permalink: /:categories/:year/:month/:day/:title.html
+
+# For inline code
+
+# Site settings
+title: Navin Lab
+email: NNavin@mdanderson.org
+description: "The Navin Laboratory at The University of Texas MD Anderson Cancer Center."
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: DD1144
+  secondary: D9EDF7
+  secondary-dark: 737373
+
+category-list: [software, blog]
+
+# Team names, titles and social links
+people:
+- name: Nicholas Navin
+  pic: nick
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/nicholas_navin
+    - title: graduation-cap
+      url: https://scholar.google.com/citations?user=e4mp7GoAAAAJ&hl=en
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicholas-navin-6541b137
+
+- name: Emi Sei
+  pic: emi
+  position: Research Laboratory Manager
+  social:
+    - title: envelope
+      url: mailto:ESei@mdanderson.org
+
+
+- name: Ruli Gao
+  pic: ruli
+  position: Senior Postdoctoral Fellow
+  social:
+    - title: graduation-cap
+      url: https://scholar.google.com/citations?user=SGKkC4sAAAAJ&hl=en&oi=sra
+    - title: envelope
+      url: mailto:RGao@mdanderson.org
+
+- name: Kaile Wang
+  pic: kaile
+  position: Postdoctoral Fellow
+  social:
+    - title: envelope
+      url: mailto:KWang5@mdanderson.org
+
+- name: Shanshan Bai
+  pic: shan
+  position: Sr. Research Assistant
+  social:
+    - title: envelope
+      url: mailto:SBai@mdanderson.org
+
+
+- name: Min Hu
+  pic: min
+  position: Sr. Research Assistant
+  social:
+    - title: envelope
+      url: mailto:MHu1@mdanderson.org
+
+
+- name: Alexander Davis
+  pic: alex
+  position: Graduate Student
+  social:
+    - title: file-text-o
+      url: https://gsbs.uth.edu/current-students/students-profiles.htm?id=e8f3efa1-6168-41f1-b4a4-a543e1d64c1d
+    - title: envelope
+      url: mailto:AJDavis2@mdanderson.org
+
+- name: Naveen Ramesh
+  pic: naveen
+  position: Graduate Student
+  social:
+    - title: envelope
+      url: mailto:NRamesh@mdanderson.org
+
+- name: Aislyn Schalck
+  pic: aislyn
+  position: Graduate Student
+  social:
+    - title: envelope
+      url: mailto:ASchalck@mdanderson.org
+
+
+- name: Darlan Minussi
+  pic: darlan
+  position: Graduate Student
+  social:
+    - title: envelope
+      url: mailto:DCMinussi@mdanderson.org
+
+
+- name: Tapsi Seth
+  pic: tapsi
+  position: Graduate Student
+  bio:
+  >
+    Currently, my research is focused on understanding the landscape
+    of de novo mutation in the human genome.
+  social:
+    - title: envelope
+      url: mailto:TSeth@mdanderson.org
+
+- name: Jake Leighton
+  pic: jake
+  position: Graduate Student
+  social:
+    - title: envelope
+      url: mailto:JLeighton@mdanderson.org
+
+- name: Cheng Peng
+  pic: cheng
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: mailto:CPeng1@mdanderson.org
+
+- name: Ameen Homayoon
+  pic: ameen
+  position: Summer Student
+  social:
+    - title: envelope
+      url: mailto:AHomayoon@mdanderson.org
+
+
+# Alumni
+alumni:
+- name: Anna Unruh
+  pic: anna
+  position: Postdoctoral Scientist
+  social:
+    - title: github
+      url:
+
+- name: Yong Wang
+  pic: wangyong
+  position: Programmer
+  social:
+    - title: github
+      url:
+
+- name: Marco Leung
+  pic: marco
+  position: Undergraduate Researcher
+
+- name: Pei-Ching Tsai
+  pic: sai
+  position: Undergraduate Researcher
+
+- name: Charissa Kim
+  pic: charissa
+  position: Undergraduate Student
+  social:
+    - title: github
+      url:
+
+- name: Haowei Du
+  pic: Haowei
+  position: Undergraduate Student
+  social:
+    - title: github
+      url:
+
+- name: Jill Waters
+  pic: Jill
+  position: Undergraduate Student
+  social:
+    - title: github
+      url:
+
+- name: Antonio Giordano
+  pic: anto
+  position: Undergraduate Student
+  social:
+    - title: github
+      url:
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/nicholas_navin
+  - title: envelope
+    url: mailto:NNavin@mdanderson.org
+  - title: google
+    url: https://scholar.google.com/citations?user=e4mp7GoAAAAJ&hl=en
+  - title: linkedin
+    url: https://www.linkedin.com/in/nicholas-navin-6541b137
+
+funding:
+- name: American Cancer Society
+  pic: acs
+
+- name: Lefkofsky Family Foundation
+  pic: lff
+
+- name: Damon Runyon-Rachleff Innovation Award
+  pic: drc
+
+- name: National Institute of Health (NIH)
+  pic: nih
+
+- name: National Cancer Institute (NCI)
+  pic: nci
+
+- name: Nadia’s Gift Foundation
+  pic: ng

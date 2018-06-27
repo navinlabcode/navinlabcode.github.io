@@ -1,0 +1,57 @@
+---
+layout: blog_default
+---
+<section>
+  <div class="text-center">
+    <h1>{{ page.title }}</h1>
+  </div>
+  <div class="container">
+    <div class="col-md-12 text-center">
+      <strong>{{ page.date | date_to_long_string }}</strong>
+    </div>
+    <div class="col-md-12 text-center">
+      <strong>{{ page.post_author }}</strong>
+    </div>
+    <div class="col-md-12 text-center">
+  	  <span class="fa-stack fa-4x">
+        <i class="fa fa-circle fa-stack-2x text-secondary"></i>
+        <i class="fa fa-asterisk fa-stack-1x fa-inverse"></i>
+      </span>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="col-md-12">
+      {{ content }}
+    </div>
+  </div>
+
+  {% if page.comments %}
+  <span class="fa-stack fa-4x">
+          <i class="fa fa-circle fa-stack-2x text-secondary"></i>
+          <i class="fa fa-quote-left fa-stack-1x fa-inverse"></i>
+  </span>
+  <div id="disqus_thread"></div>
+    <script>
+    /**
+    * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+    */
+    var disqus_config = function () {
+    this.page.url = navinlab.com; // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = navinlab.com; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+
+    s.src = '//navinlab.disqus.com/embed.js';
+
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  {% endif %}
+
+</section>
