@@ -952,3 +952,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.secondary }};
 }
+
+.style_3 {
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    text-decoration: underline;
+}
