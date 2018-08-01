@@ -198,22 +198,3 @@ social:
     url: https://scholar.google.com/citations?user=e4mp7GoAAAAJ&hl=en
   - title: linkedin
     url: https://www.linkedin.com/in/nicholas-navin-6541b137
-
-funding:
-- name: American Cancer Society
-  pic: acs
-
-- name: Lefkofsky Family Foundation
-  pic: lff
-
-- name: Damon Runyon-Rachleff Innovation Award
-  pic: drc
-
-- name: National Institute of Health (NIH)
-  pic: nih
-
-- name: National Cancer Institute (NCI)
-  pic: nci
-
-- name: Nadia’s Gift Foundation
-  pic: ng
