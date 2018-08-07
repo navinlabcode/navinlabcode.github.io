@@ -124,7 +124,16 @@ people:
   position: Resident physician
   social:
       - title: envelope
-        url: mailto:CPeng1@mdanderson.org
+        url: mailto:AMElhammali@mdanderson.org
+
+- name: Rui Ye
+  pic: ruiye
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: mailto:RYe@mdanderson.org
+
+
 
 - name: Ameen Homayoon
   pic: ameen
