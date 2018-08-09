@@ -972,3 +972,11 @@ body {
 #contact-address h4 {
   text-transform: none;
 }
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
