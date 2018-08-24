@@ -133,7 +133,12 @@ people:
       - title: envelope
         url: mailto:RYe@mdanderson.org
 
-
+- name: Mashiat Rabbani
+  pic: mashiat
+  position: Master Student
+  social:
+      - title: envelope
+        url: mrabbani@mdanderson.org
 
 
 # Alumni
