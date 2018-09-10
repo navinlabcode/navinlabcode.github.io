@@ -225,9 +225,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: "Helvetica Neue",'Montserrat',"Arial",Helvetica,Arial,sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     letter-spacing: 1px;
-    color: #fff;
+    color: #f00;
 }
 
 .navbar-default .nav li a:hover,
@@ -281,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #f00;
     background-attachment: scroll;
     background-image: url(img/header-bg.jpg);
     background-position: center center;
