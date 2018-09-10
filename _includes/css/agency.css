@@ -225,9 +225,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: "Helvetica Neue",'Montserrat',"Arial",Helvetica,Arial,sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: 1px;
-    color: #f00;
+    color: #fff;
 }
 
 .navbar-default .nav li a:hover,
@@ -281,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #f00;
+    color: #fff;
     background-attachment: scroll;
     background-image: url(img/header-bg.jpg);
     background-position: center center;
@@ -317,7 +317,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 300px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
