@@ -21,7 +21,6 @@
 
             <p> </p>
             <p> </p>
-
             <div style="max-width:1000px;min-width:250px;position:relative;margin:auto;">
 
               <div class="mySlides fade" style="display: block;">
@@ -60,7 +59,34 @@
               <a href="javascript:void(0)" class="dot" onclick="currentSlide(3)" title="slide 3"></a>
               <a href="javascript:void(0)" class="dot" onclick="currentSlide(4)" title="slide 4"></a>
             </div>
+            <script>
+              var slideIndex = 1;
+              showSlides(slideIndex);
 
+              function plusSlides(n) {
+                showSlides(slideIndex += n);
+              }
+
+              function currentSlide(n) {
+                showSlides(slideIndex = n);
+              }
+
+              function showSlides(n) {
+                var i;
+                var slides = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("dot");
+                if (n > slides.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = slides.length} ;
+                for (i = 0; i < slides.length; i++) {
+                   slides[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                   dots[i].classList.remove("slideractive");
+                }
+                slides[slideIndex-1].style.display = "block";
+                dots[slideIndex-1].classList.add("slideractive");
+              }
+              </script>
 
 
 
