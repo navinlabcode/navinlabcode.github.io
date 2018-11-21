@@ -12,6 +12,7 @@ description: "The Navin Laboratory at The University of Texas MD Anderson Cancer
 color:
   primary: DD1144
   secondary: DD1144
+  third: ccc
   secondary-dark: 737373
 
 category-list: [software, news]
