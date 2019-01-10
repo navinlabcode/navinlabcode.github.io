@@ -102,7 +102,7 @@ people:
       url: mailto:DCMinussi@mdanderson.org
 
 
-- name: Tapsi Seth
+- name: Tapsi Kumar
   pic: tapsi
   position: Graduate Student
   bio:
@@ -110,6 +110,8 @@ people:
     Currently, my research is focused on understanding the landscape
     of de novo mutation in the human genome.
   social:
+    - title: twitter
+      url: https://twitter.com/TapsiKS
     - title: envelope
       url: mailto:TSeth@mdanderson.org
 
