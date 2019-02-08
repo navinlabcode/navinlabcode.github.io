@@ -6,18 +6,13 @@
 	 style="enable-background:new 0 0 115.2 115.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#1D1D1B;stroke-width:4.046;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#1D1D1B;stroke-width:2.831;stroke-miterlimit:10;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10" guidetolerance="10" id="namedview28" inkscape:current-layer="svg2" inkscape:cx="122.71148" inkscape:cy="47.970718" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1440" inkscape:window-maximized="0" inkscape:window-width="2560" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="4" objecttolerance="10" pagecolor="#ffffff" showgrid="false" units="in">
 	</sodipodi:namedview>
-<path class="st0" d="M82.1,49.1H87 M65.1,49.1h3.6 M48.1,49.1h4.9 M31,49.1h4.9 M82.1,60c0,3.4-2.7,6.1-6.1,6.1s-6.1-2.7-6.1-6.1V32
-	h12.2V60z M65.1,60c0,3.4-2.7,6.1-6.1,6.1c-3.4,0-6.1-2.7-6.1-6.1V32h12.2V60z M48.1,60c0,3.4-2.7,6.1-6.1,6.1s-6.1-2.7-6.1-6.1V32
-	h12.2L48.1,60L48.1,60z M31,41.8v24.3c0,5.4,4.4,9.7,9.7,9.7h36.5c5.4,0,9.7-4.4,9.7-9.7V41.8 M53.6,57.1c0.2,0,0.4,0.1,0.4,0.2
-	s-0.2,0.2-0.4,0.2s-0.4-0.1-0.4-0.2S53.3,57.1,53.6,57.1z M53.6,52.5c0.2,0,0.4,0,0.4,0.1s-0.2,0.1-0.4,0.1s-0.4,0-0.4-0.1
-	S53.3,52.5,53.6,52.5z"/>
-<ellipse class="st1" cx="54.3" cy="56.6" rx="0.6" ry="0.6"/>
-<ellipse class="st1" cx="54.3" cy="56.6" rx="0.6" ry="0.6"/>
-<ellipse class="st1" cx="55.7" cy="56.6" rx="0.7" ry="0.6"/>
-<ellipse class="st1" cx="54.3" cy="53.2" rx="0.6" ry="0.3"/>
-<ellipse transform="matrix(0.9908 -0.1353 0.1353 0.9908 -7.6941 5.4731)" class="st1" cx="36.4" cy="59.4" rx="0.4" ry="0.2"/>
+<path class="st0" d="M78.6,52.7h4.9 M61.5,52.7h3.6 M44.5,52.7h4.9 M27.5,52.7h4.9 M78.6,63.7c0,3.4-2.7,6.1-6.1,6.1
+	s-6.1-2.7-6.1-6.1v-28h12.2V63.7z M61.5,63.7c0,3.4-2.7,6.1-6.1,6.1c-3.4,0-6.1-2.7-6.1-6.1v-28h12.2V63.7z M44.5,63.7
+	c0,3.4-2.7,6.1-6.1,6.1s-6.1-2.7-6.1-6.1v-28h12.2L44.5,63.7L44.5,63.7z M27.5,45.4v24.3c0,5.4,4.4,9.7,9.7,9.7h36.5
+	c5.4,0,9.7-4.4,9.7-9.7V45.4"/>
+<path class="st0" d="M66.4,63.7h12.2 M49.4,63.7h12.2 M32.3,63.7h12.2"/>
+<path class="st0" d="M66.3,57.6h12 M49.4,57.6h12 M32.6,57.6h12"/>
 </svg>
