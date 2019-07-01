@@ -144,6 +144,27 @@ people:
         url: mrabbani@mdanderson.org
 
 
+- name: Yun Yan
+  pic: yun
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: YYan7@mdanderson.org
+
+- name: Hanghui Ye
+  pic: hanghui
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: HYe3@mdanderson.org
+
+- name: Jie Ye
+  pic: jie
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: JYe1@mdanderson.org        
+
 # Alumni
 alumni:
 - name: Anna Unruh
