@@ -163,7 +163,14 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: JYe1@mdanderson.org        
+        url: JYe1@mdanderson.org
+
+- name: Yiyun Lin
+  pic: yiyun
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: ylin54@mdanderson.org
 
 # Alumni
 alumni:
