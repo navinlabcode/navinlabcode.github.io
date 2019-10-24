@@ -32,12 +32,26 @@ people:
 
 - name: Emi Sei
   pic: emi
-  position: Research Laboratory Manager
+  position: Staff Scientist
   social:
     - title: envelope
       url: mailto:ESei@mdanderson.org
 
+- name: Shanshan Bai
+  pic: shan
+  position: Research Investigator
+  social:
+    - title: envelope
+      url: mailto:SBai@mdanderson.org
 
+
+- name: Min Hu
+  pic: min
+  position: Data Manager
+  social:
+    - title: envelope
+      url: mailto:MHu1@mdanderson.org
+      
 - name: Ruli Gao
   pic: ruli
   position: Senior Postdoctoral Fellow
@@ -54,20 +68,33 @@ people:
     - title: envelope
       url: mailto:KWang5@mdanderson.org
 
-- name: Shanshan Bai
-  pic: shan
-  position: Sr. Research Assistant
+- name: Zhenna Xiao
+  pic: zhenna
+  position: Postdoctoral Fellow
   social:
-    - title: envelope
-      url: mailto:SBai@mdanderson.org
+      - title: envelope
+        url: ZXiao1@mdanderson.org
+
+- name: Runmin Wei
+  pic: runmin
+  position: Postdoctoral Fellow
+  social:
+      - title: envelope
+        url: RWei2@mdanderson.org
+      - title: twitter
+        url: https://twitter.com/rum_wei
+      - title: graduation-cap
+        url: https://scholar.google.com/citations?user=chbmcD0AAAAJ&hl=en
+
+- name: Yuehui Zhao
+  pic: yuehui
+  position: Postdoctoral Fellow
+  social:
+      - title: envelope
+        url: YZhao16@mdanderson.org
 
 
-- name: Min Hu
-  pic: min
-  position: Sr. Research Assistant
-  social:
-    - title: envelope
-      url: mailto:MHu1@mdanderson.org
+
 
 
 - name: Alexander Davis
@@ -164,6 +191,8 @@ people:
   social:
       - title: envelope
         url: ylin54@mdanderson.org
+
+
 
 # Alumni
 alumni:
