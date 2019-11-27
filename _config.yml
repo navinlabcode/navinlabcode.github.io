@@ -51,15 +51,7 @@ people:
   social:
     - title: envelope
       url: mailto:MHu1@mdanderson.org
-      
-- name: Ruli Gao
-  pic: ruli
-  position: Senior Postdoctoral Fellow
-  social:
-    - title: graduation-cap
-      url: https://scholar.google.com/citations?user=SGKkC4sAAAAJ&hl=en&oi=sra
-    - title: envelope
-      url: mailto:RGao@mdanderson.org
+
 
 - name: Kaile Wang
   pic: kaile
@@ -205,7 +197,14 @@ alumni:
 
 - name: Yong Wang
   pic: wangyong
-  position: Programmer
+  position: Postdoctoral Scientist
+  social:
+    - title: github
+      url:
+
+- name: Ruli Gao
+  pic: ruli
+  position: Postdoctoral Scientist
   social:
     - title: github
       url:
@@ -220,10 +219,11 @@ alumni:
 
 - name: Charissa Kim
   pic: charissa
-  position: Undergraduate Student
+  position: phD Student
   social:
     - title: github
       url:
+
 
 - name: Haowei Du
   pic: Haowei
