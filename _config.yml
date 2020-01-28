@@ -37,12 +37,33 @@ people:
     - title: envelope
       url: mailto:ESei@mdanderson.org
 
+- name: Tuan Tran
+  pic: tuan
+  position: Research Coordinator
+  social:
+    - title: envelope
+      url: mailto:TMTran2@mdanderson.org
+
 - name: Shanshan Bai
   pic: shan
   position: Research Investigator
   social:
     - title: envelope
       url: mailto:SBai@mdanderson.org
+
+- name: Jerome Lin
+  pic: jerome
+  position: Computational Scientist
+  social:
+    - title: envelope
+      url: mailto:JLin9@mdanderson.org
+
+- name: Jianzhuo Li
+  pic: jiahong
+  position: Sr Research Asst
+  social:
+    - title: envelope
+      url: mailto:JLi33@mdanderson.org
 
 
 - name: Min Hu
