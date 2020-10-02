@@ -204,7 +204,19 @@ people:
       - title: envelope
         url: ylin54@mdanderson.org
 
+- name: Siyuan He
+  pic: siyuan
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: SHe2@mdanderson.org
 
+- name: Yuwei Lin
+  pic: yuwei
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: YLin21@mdanderson.org
 
 # Alumni
 alumni:
