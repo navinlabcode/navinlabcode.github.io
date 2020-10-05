@@ -161,12 +161,6 @@ people:
     - title: envelope
       url: mailto:JLeighton@mdanderson.org
 
-- name: Adnan Elhammali
-  pic: adnan
-  position: Resident physician
-  social:
-      - title: envelope
-        url: mailto:AMElhammali@mdanderson.org
 
 - name: Rui Ye
   pic: ruiye
