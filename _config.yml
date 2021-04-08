@@ -131,12 +131,6 @@ people:
     - title: envelope
       url: mailto:NBaudoin@mdanderson.org
 
-- name: Naveen Ramesh
-  pic: naveen
-  position: Graduate Student
-  social:
-    - title: envelope
-      url: mailto:NRamesh@mdanderson.org
 
 - name: Aislyn Schalck
   pic: aislyn
@@ -227,12 +221,7 @@ people:
 
 # Alumni
 alumni:
-- name: Anna Unruh
-  pic: anna
-  position: Postdoctoral Scientist
-  social:
-    - title: github
-      url:
+
 
 - name: Yong Wang
   pic: wangyong
