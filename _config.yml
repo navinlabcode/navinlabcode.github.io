@@ -37,12 +37,6 @@ people:
     - title: envelope
       url: mailto:ESei@mdanderson.org
 
-- name: Tuan Tran
-  pic: tuan
-  position: Research Laboratory Manager
-  social:
-    - title: envelope
-      url: mailto:TMTran2@mdanderson.org
 
 - name: Shanshan Bai
   pic: shan
@@ -50,6 +44,22 @@ people:
   social:
     - title: envelope
       url: mailto:SBai@mdanderson.org
+
+
+- name: Kaile Wang
+  pic: kaile
+  position: Instructor
+  social:
+    - title: envelope
+      url: mailto:KWang5@mdanderson.org
+
+
+- name: Tuan Tran
+  pic: tuan
+  position: Research Laboratory Manager
+  social:
+    - title: envelope
+      url: mailto:TMTran2@mdanderson.org
 
 - name: Jerome Lin
   pic: jerome
@@ -80,12 +90,7 @@ people:
     - title: envelope
       url: mailto:AKCasasent@mdanderson.org
 
-- name: Kaile Wang
-  pic: kaile
-  position: Postdoctoral Fellow
-  social:
-    - title: envelope
-      url: mailto:KWang5@mdanderson.org
+
 
 - name: Zhenna Xiao
   pic: zhenna
