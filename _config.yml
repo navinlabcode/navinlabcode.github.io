@@ -39,14 +39,14 @@ people:
 
 - name: Tuan Tran
   pic: tuan
-  position: Research Coordinator
+  position: Research Laboratory Manager
   social:
     - title: envelope
       url: mailto:TMTran2@mdanderson.org
 
 - name: Shanshan Bai
   pic: shan
-  position: Research Investigator
+  position: Research Laboratory Manager
   social:
     - title: envelope
       url: mailto:SBai@mdanderson.org
@@ -60,7 +60,7 @@ people:
 
 - name: Jianzhuo Li
   pic: jiahong
-  position: Sr Research Asst
+  position: Research Investigator
   social:
     - title: envelope
       url: mailto:JLi33@mdanderson.org
