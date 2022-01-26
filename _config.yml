@@ -30,9 +30,10 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/nicholas-navin-6541b137
 
+
 - name: Emi Sei
   pic: emi
-  position: Staff Scientist
+  position: Principal Research Scientist
   social:
     - title: envelope
       url: mailto:ESei@mdanderson.org
@@ -61,12 +62,14 @@ people:
     - title: envelope
       url: mailto:TMTran2@mdanderson.org
 
+
 - name: Jerome Lin
   pic: jerome
   position: Computational Scientist
   social:
     - title: envelope
       url: mailto:JLin9@mdanderson.org
+
 
 - name: Jianzhuo Li
   pic: jiahong
@@ -83,7 +86,8 @@ people:
     - title: envelope
       url: mailto:MHu1@mdanderson.org
 
-- name: Anna Casasent
+
+- name: Anna K. Casasent
   pic: anna
   position: Computational Scientist
   social:
@@ -91,15 +95,17 @@ people:
       url: mailto:AKCasasent@mdanderson.org
     - title: linkedin
       url: https://www.linkedin.com/in/anna-casasent/
-
-
-
+    - title: graduation-cap
+        url: https://scholar.google.com/citations?user=aI9-VS4AAAAJ&hl=en
+  
+  
 - name: Zhenna Xiao
   pic: zhenna
   position: Postdoctoral Fellow
   social:
       - title: envelope
         url: ZXiao1@mdanderson.org
+
 
 - name: Runmin Wei
   pic: runmin
@@ -112,6 +118,7 @@ people:
       - title: graduation-cap
         url: https://scholar.google.com/citations?user=chbmcD0AAAAJ&hl=en
 
+
 - name: Yuehui Zhao
   pic: yuehui
   position: Postdoctoral Fellow
@@ -120,13 +127,13 @@ people:
         url: YZhao16@mdanderson.org
 
 
-
 - name: Nicolaas Baudoin
   pic: Nico
   position: Postdoctoral Fellow
   social:
     - title: envelope
       url: mailto:NBaudoin@mdanderson.org
+
 
 - name: Rachel Dittmar
   pic: Rachel
@@ -165,6 +172,7 @@ people:
     - title: envelope
       url: mailto:TSeth@mdanderson.org
 
+
 - name: Jake Leighton
   pic: jake
   position: Graduate Student
@@ -188,12 +196,14 @@ people:
       - title: envelope
         url: YYan7@mdanderson.org
 
+
 - name: Hanghui Ye
   pic: hanghui
   position: Graduate Student
   social:
       - title: envelope
         url: HYe3@mdanderson.org
+
 
 - name: Jie Ye
   pic: jie
@@ -202,12 +212,14 @@ people:
       - title: envelope
         url: JYe1@mdanderson.org
 
+
 - name: Yiyun Lin
   pic: yiyun
   position: Graduate Student
   social:
       - title: envelope
         url: ylin54@mdanderson.org
+
 
 - name: Siyuan He
   pic: siyuan
@@ -216,7 +228,8 @@ people:
       - title: envelope
         url: SHe2@mdanderson.org
 
-- name: Junke Wang
+
+- name: Junke (Kris) Wang
   pic: junke
   position: Graduate Student
   social:
@@ -255,7 +268,6 @@ alumni:
   social:
     - title: github
       url:
-
 
 - name: Haowei Du
   pic: Haowei
