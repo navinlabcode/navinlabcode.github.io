@@ -95,6 +95,15 @@ people:
       url: mailto:AKCasasent@mdanderson.org
     - title: linkedin
       url: https://www.linkedin.com/in/anna-casasent/
+
+
+- name: Mitchell Rao
+  pic: Mitchael
+  position: Computational Scientist
+  social:
+    - title: envelope
+      url: mailto:mmrao@mdanderson.org
+
   
   
 - name: Zhenna Xiao
