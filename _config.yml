@@ -21,7 +21,7 @@ category-list: [software, news]
 people:
 - name: Nicholas Navin
   pic: nick
-  position: Principal Investigator
+  position: Professor & Chair
   social:
     - title: twitter
       url: https://twitter.com/nicholas_navin
@@ -33,7 +33,7 @@ people:
 
 - name: Emi Sei
   pic: emi
-  position: Principal Research Scientist
+  position: Research Group Leader
   social:
     - title: envelope
       url: mailto:ESei@mdanderson.org
@@ -41,7 +41,7 @@ people:
 
 - name: Shanshan Bai
   pic: shan
-  position: Research Laboratory Manager
+  position: Supv, Laboratory & Research
   social:
     - title: envelope
       url: mailto:SBai@mdanderson.org
@@ -81,7 +81,7 @@ people:
 
 - name: Min Hu
   pic: min
-  position: Computational Scientist
+  position: Sr Computational Scientist
   social:
     - title: envelope
       url: mailto:MHu1@mdanderson.org
@@ -141,34 +141,31 @@ people:
       url: mailto:RLDittmar@mdanderson.org
 
 
-- name: Aislyn Schalck
-  pic: aislyn
-  position: Graduate Student
+- name: Aatish Thennavan
+  pic: Aatish
+  position: Postdoctoral Fellow
   social:
     - title: envelope
-      url: mailto:ASchalck@mdanderson.org
+      url: mailto:AThennavan@mdanderson.org
 
 
-- name: Darlan Minussi
-  pic: darlan
-  position: Graduate Student
+- name: Ryan Mulqueen
+  pic: Ryan
+  position: Postdoctoral Fellow
   social:
     - title: envelope
-      url: mailto:DCMinussi@mdanderson.org
+      url: mailto:rmulqueen@mdanderson.org
 
 
-- name: Tapsi Kumar
-  pic: tapsi
-  position: Graduate Student
+- name: Andres Nevarez
+  pic: Andres
+  position: Postdoctoral Fellow
   bio:
-  >
     Currently, my research is focused on understanding the landscape
     of de novo mutation in the human genome.
   social:
-    - title: twitter
-      url: https://twitter.com/TapsiKS
     - title: envelope
-      url: mailto:TSeth@mdanderson.org
+      url: mailto:ajnevarez@mdanderson.org
 
 
 - name: Jake Leighton
@@ -226,13 +223,34 @@ people:
       - title: envelope
         url: SHe2@mdanderson.org
 
-
 - name: Junke (Kris) Wang
   pic: junke
   position: Graduate Student
   social:
       - title: envelope
         url: JWang48@mdanderson.org
+
+- name: Ping Xu
+  pic: pingxu
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: pxu@mdanderson.org
+
+
+
+- name: Lei Yang
+  pic: leiyang
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: LYang15@mdanderson.org
+
+
+
+
+
+
 
 # Alumni
 alumni:
@@ -269,20 +287,6 @@ alumni:
 
 - name: Haowei Du
   pic: Haowei
-  position: Undergraduate Student
-  social:
-    - title: github
-      url:
-
-- name: Jill Waters
-  pic: Jill
-  position: Undergraduate Student
-  social:
-    - title: github
-      url:
-
-- name: Antonio Giordano
-  pic: anto
   position: Undergraduate Student
   social:
     - title: github
