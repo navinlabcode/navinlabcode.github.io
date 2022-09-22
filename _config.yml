@@ -176,6 +176,12 @@ people:
     - title: envelope
       url: mailto:ajnevarez@mdanderson.org
 
+- name: Haijing Jin
+  pic: haijing
+  position: Postdoctoral Fellow
+  social:
+    - title: envelope
+      url: mailto:hjin3@mdanderson.org
 
 - name: Jake Leighton
   pic: jake
