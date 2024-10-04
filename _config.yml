@@ -47,14 +47,6 @@ people:
       url: mailto:SBai@mdanderson.org
 
 
-- name: Kaile Wang
-  pic: kaile
-  position: Instructor
-  social:
-    - title: envelope
-      url: mailto:KWang5@mdanderson.org
-
-
 - name: Tuan Tran
   pic: tuan
   position: Research Laboratory Manager
@@ -71,30 +63,22 @@ people:
       url: mailto:JLin9@mdanderson.org
 
 
+- name: Heba Elgamal
+  pic: heba
+  position: Senior Research Assistant
+  social:
+      - title: envelope
+        url: HElgamal@mdanderson.org
+
+
+
 - name: Jianzhuo Li
   pic: jiahong
-  position: Research Investigator
+  position: Research Scientist
   social:
     - title: envelope
       url: mailto:JLi33@mdanderson.org
 
-
-- name: Min Hu
-  pic: min
-  position: Sr Computational Scientist
-  social:
-    - title: envelope
-      url: mailto:MHu1@mdanderson.org
-
-
-- name: Anna K. Casasent
-  pic: anna2
-  position: Computational Scientist
-  social:
-    - title: envelope
-      url: mailto:AKCasasent@mdanderson.org
-    - title: linkedin
-      url: https://www.linkedin.com/in/anna-casasent/
 
 
 - name: Mitchell Rao
@@ -103,6 +87,16 @@ people:
   social:
     - title: envelope
       url: mailto:mmrao@mdanderson.org
+
+
+- name: Chenling Tang
+  pic: chenling
+  position: Computational Scientist
+  social:
+    - title: envelope
+      url: mailto:CTang4@mdanderson.org
+    - title: linkedin
+      url: https://www.linkedin.com/in/chenling-tang-900815138/
 
   
   
@@ -113,25 +107,6 @@ people:
       - title: envelope
         url: ZXiao1@mdanderson.org
 
-
-- name: Runmin Wei
-  pic: runmin
-  position: Postdoctoral Fellow
-  social:
-      - title: envelope
-        url: RWei2@mdanderson.org
-      - title: twitter
-        url: https://twitter.com/rum_wei
-      - title: graduation-cap
-        url: https://scholar.google.com/citations?user=chbmcD0AAAAJ&hl=en
-
-
-- name: Yuehui Zhao
-  pic: yuehui
-  position: Postdoctoral Fellow
-  social:
-      - title: envelope
-        url: YZhao16@mdanderson.org
 
 
 - name: Nicolaas Baudoin
@@ -183,20 +158,25 @@ people:
     - title: envelope
       url: mailto:hjin3@mdanderson.org
 
-- name: Jake Leighton
-  pic: jake
-  position: Graduate Student
-  social:
-    - title: envelope
-      url: mailto:JLeighton@mdanderson.org
-
 
 - name: Rui Ye
   pic: ruiye
-  position: Graduate Student
+  position: Postdoctoral Fellow
   social:
       - title: envelope
         url: mailto:RYe@mdanderson.org
+
+
+- name: Sidi Zhao
+  pic: sidi
+  position: Postdoctoral Fellow
+  social:
+    - title: envelope
+      url: mailto:SZhao7@mdanderson.org
+    - title: twitter
+      url: https://twitter.com/sidizhao94
+    - title: linkedin
+      url: https://www.linkedin.com/in/sidizhao
 
 
 - name: Yun Yan
@@ -206,13 +186,6 @@ people:
       - title: envelope
         url: YYan7@mdanderson.org
 
-
-- name: Hanghui Ye
-  pic: hanghui
-  position: Graduate Student
-  social:
-      - title: envelope
-        url: HYe3@mdanderson.org
 
 
 - name: Jie Ye
@@ -260,14 +233,6 @@ people:
   social:
       - title: envelope
         url: LYang15@mdanderson.org
-
-
-- name: Heba Elgamal
-  pic: heba
-  position: Masters Student
-  social:
-      - title: envelope
-        url: HElgamal@mdanderson.org
 
 
 
