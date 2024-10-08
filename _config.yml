@@ -123,6 +123,11 @@ people:
   social:
     - title: envelope
       url: mailto:RLDittmar@mdanderson.org
+    - title: twitter
+      url: https://twitter.com/RLDittmar
+    - title: linkedin
+      url: https://www.linkedin.com/in/racheldittmar
+
 
 
 - name: Aatish Thennavan
@@ -235,6 +240,20 @@ people:
         url: LYang15@mdanderson.org
 
 
+- name: Reem Elghaish
+  pic: reem
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: raelghaish@mdanderson.org
+
+
+- name: Chante Bethell
+  pic: chante
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: CJBethell@mdanderson.org
 
 
 
