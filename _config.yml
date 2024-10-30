@@ -151,10 +151,14 @@ people:
   position: Postdoctoral Fellow
   bio:
     Currently, my research is focused on understanding the landscape
-    of de novo mutation in the human genome.
+    of <a href="https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661">de novo mutation in the human genome</a>. 
   social:
     - title: envelope
       url: mailto:ajnevarez@mdanderson.org
+    - title: twitter
+      url: https://twitter.com/TechnicolorDres
+    - title: linkedin
+      url: https://www.linkedin.com/in/andresnevarezphd
 
 - name: Haijing Jin
   pic: haijing
@@ -238,6 +242,14 @@ people:
   social:
       - title: envelope
         url: LYang15@mdanderson.org
+
+
+- name: Mariam Mosaad
+  pic: mariam
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: MMosaad@mdanderson.org
 
 
 - name: Reem Elghaish
