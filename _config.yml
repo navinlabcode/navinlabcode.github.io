@@ -146,12 +146,12 @@ people:
       url: mailto:rmulqueen@mdanderson.org
 
 
-- name: Andres Nevarez
+- name: <a href="https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661">Andres Nevarez</a>
   pic: Andres
   position: Postdoctoral Fellow
   bio:
     Currently, my research is focused on understanding the landscape
-    of <a href="https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661">de novo mutation in the human genome</a>. 
+    of de novo mutation in the human genome. 
   social:
     - title: envelope
       url: mailto:ajnevarez@mdanderson.org
