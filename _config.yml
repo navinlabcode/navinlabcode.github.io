@@ -146,7 +146,7 @@ people:
       url: mailto:rmulqueen@mdanderson.org
 
 
-- name: <a href="https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661">Andres Nevarez</a>
+- name: Andres Nevarez
   pic: Andres
   position: Postdoctoral Fellow
   bio:
@@ -159,6 +159,8 @@ people:
       url: https://twitter.com/TechnicolorDres
     - title: linkedin
       url: https://www.linkedin.com/in/andresnevarezphd
+    - title: share
+      url: https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661 
 
 - name: Haijing Jin
   pic: haijing
