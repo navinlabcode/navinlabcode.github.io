@@ -190,6 +190,14 @@ people:
       url: https://www.linkedin.com/in/sidizhao
 
 
+- name: Xiaodong Liu
+  pic: xiaodong
+  position: Postdoctoral Fellow
+  social:
+      - title: envelope
+        url: mailto:XLiu34@mdanderson.org
+
+
 - name: Yun Yan
   pic: yun
   position: Graduate Student
