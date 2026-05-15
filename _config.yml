@@ -98,16 +98,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/chenling-tang-900815138/
 
-  
-  
-- name: Zhenna Xiao
-  pic: zhenna
-  position: Postdoctoral Fellow
-  social:
-      - title: envelope
-        url: ZXiao1@mdanderson.org
-
-
 
 - name: Nicolaas Baudoin
   pic: Nico
@@ -162,13 +152,6 @@ people:
     - title: share
       url: https://www.the-scientist.com/defining-the-triple-negative-breast-cancer-morpholome-71661 
 
-- name: Haijing Jin
-  pic: haijing
-  position: Postdoctoral Fellow
-  social:
-    - title: envelope
-      url: mailto:hjin3@mdanderson.org
-
 
 - name: Rui Ye
   pic: ruiye
@@ -200,7 +183,7 @@ people:
 
 - name: Yun Yan
   pic: yun
-  position: Graduate Student
+  position: Postdoctoral Fellow
   social:
       - title: envelope
         url: YYan7@mdanderson.org
@@ -215,12 +198,7 @@ people:
         url: JYe1@mdanderson.org
 
 
-- name: Siyuan He
-  pic: siyuan
-  position: Graduate Student
-  social:
-      - title: envelope
-        url: SHe2@mdanderson.org
+
 
 - name: Junke (Kris) Wang
   pic: junke
@@ -317,6 +295,26 @@ alumni:
     - title: github
       url:
 
+- name: Zhenna Xiao
+  pic: zhenna
+  position: Postdoctoral Fellow
+  social:
+      - title: envelope
+        url: 
+
+- name: Haijing Jin
+  pic: haijing
+  position: Postdoctoral Fellow
+  social:
+    - title: envelope
+      url: 
+
+- name: Siyuan He
+  pic: siyuan
+  position: Graduate Student
+  social:
+      - title: envelope
+        url:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
