@@ -186,7 +186,7 @@ people:
   position: Postdoctoral Fellow
   social:
       - title: envelope
-        url: YYan7@mdanderson.org
+        url: mailto:YYan7@mdanderson.org
 
 
 
@@ -195,7 +195,7 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: JYe1@mdanderson.org
+        url: mailto:JYe1@mdanderson.org
 
 
 
@@ -205,14 +205,14 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: JWang48@mdanderson.org
+        url: mailto:JWang48@mdanderson.org
 
 - name: Ping Xu
   pic: pingxu
   position: Graduate Student
   social:
       - title: envelope
-        url: pxu@mdanderson.org
+        url: mailto:pxu@mdanderson.org
 
 
 
@@ -221,7 +221,7 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: LYang15@mdanderson.org
+        url: mailto:LYang15@mdanderson.org
 
 
 - name: Mariam Mosaad
@@ -229,7 +229,7 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: MMosaad@mdanderson.org
+        url: mailto:MMosaad@mdanderson.org
 
 
 - name: Reem Elghaish
@@ -237,7 +237,7 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: raelghaish@mdanderson.org
+        url: mailto:raelghaish@mdanderson.org
 
 
 - name: Chante Bethell
@@ -245,28 +245,28 @@ people:
   position: Graduate Student
   social:
       - title: envelope
-        url: CJBethell@mdanderson.org
+        url: mailto:CJBethell@mdanderson.org
 
 - name: Xiang (Riley) Li
   pic: riley
   position: Graduate Student
   social:
       - title: envelope
-        url: xl160@rice.edu
+        url: mailto:xl160@rice.edu
 
 - name: Cole Ruoff
   pic: cole
   position: Graduate Student
   social:
       - title: envelope
-        url: CRuoff@mdanderson.org
+        url: mailto:CRuoff@mdanderson.org
 
 - name: Yueting Zhao
-  pic: cole
+  pic: yueting
   position: Graduate Student
   social:
       - title: envelope
-        url: YZhao20@mdanderson.org
+        url: mailto:YZhao20@mdanderson.org
 
         
 
