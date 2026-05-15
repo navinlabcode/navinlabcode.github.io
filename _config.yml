@@ -261,6 +261,13 @@ people:
       - title: envelope
         url: mailto:CRuoff@mdanderson.org
 
+- name: Chia Hsin Lin (Alex)
+  pic: alexlin
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: mailto:clin11@mdanderson.org
+
 - name: Yueting Zhao
   pic: yueting
   position: Graduate Student
@@ -268,12 +275,6 @@ people:
       - title: envelope
         url: mailto:YZhao20@mdanderson.org
 
-- name: Chia Hsin Lin (Alex)
-  pic: alexlin
-  position: Graduate Student
-  social:
-      - title: envelope
-        url: mailto:clin11@mdanderson.org
 
 - name: Songyun Li
   pic: songyun
