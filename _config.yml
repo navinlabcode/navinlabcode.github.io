@@ -254,6 +254,22 @@ people:
       - title: envelope
         url: xl160@rice.edu
 
+- name: Cole Ruoff
+  pic: cole
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: CRuoff@mdanderson.org
+
+- name: Yueting Zhao
+  pic: cole
+  position: Graduate Student
+  social:
+      - title: envelope
+        url: YZhao20@mdanderson.org
+
+        
+
 
 # Alumni
 alumni:
